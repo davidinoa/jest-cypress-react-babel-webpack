@@ -1,0 +1,10 @@
+{
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.fontSize": 16,
+  "editor.renderWhitespace": "boundary",
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+  "workbench.colorTheme": "Material Theme Palenight High Contrast"
+}
